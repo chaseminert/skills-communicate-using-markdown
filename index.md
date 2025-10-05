@@ -3,3 +3,6 @@
 ``` python3
 print("Hello WRLD")
 ```
+- [x] Write the backend
+- [ ] Write the frontend
+- [ ] profit
